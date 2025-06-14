@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Tomatio13+%F0%9F%91%8B;AI%E3%83%BBFull-Stack+Engineer+%F0%9F%A4%96;Building+AI-Powered+Solutions+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Tomatio13+%F0%9F%91%8B;AI%E3%83%BBFull-Stack+Engineer+%F0%9F%A4%96;Building+AI-Powered+Solutions;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 ## 🌟 **About Me**
@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=python" width="100" height="100" alt="Python" />
+<img src="./images/ai_logo.png" width="20%" heigth="20%" />
 <br><strong>AI & Python</strong>
 </td>
 <td width="400" align="left">
@@ -52,16 +52,16 @@
 
 ### 🤖  **AI**
 
-<div style="background-color: white; display: inline-block;" width="50%" height="50%">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/330px-OpenAI_Logo.svg.png" alt="OpenAI Logo">
+<div style="background-color: white; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/330px-OpenAI_Logo.svg.png" alt="OpenAI Logo" width="20%" height="20%">
 </div>
 
-<div style="background-color: white; display: inline-block;" width="50%" height="50%">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/330px-Google_Gemini_logo.svg.png" />
+<div style="background-color: white; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/330px-Google_Gemini_logo.svg.png" width="20%" height="20%" />
 </div>
 
-<div style="background-color: white; display: inline-block;" width="50%" height="50%">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/330px-Claude_AI_logo.svg.png" />
+<div style="background-color: white; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/330px-Claude_AI_logo.svg.png" width="20%" height="20%"/>
 </div>
 
 ### 🤖  **AI & Machine Learning**

@@ -24,9 +24,9 @@
 
 ### 👋 **Hi, I'm Tomatio13!**
 🌍 **Location:** Japan 🇯🇵  
-🤖 **Software Engineer** | Not using AI is now a matter of survival 
-🔧 **Languages** Python | n8n | Next.js | Business Process Optimization
-📈 **Abaout** An engineer who has experienced the changes in the AI boom firsthand
+🤖 **Software Engineer** | Not using AI is now a matter of survival   
+🔧 **Languages** Python | n8n | Next.js | Business Process Optimization  
+📈 **Abaout** An engineer who has experienced the changes in the AI boom firsthand  
 
 </td>
 </tr>
@@ -51,9 +51,18 @@
 <td width="50%" align="center" valign="top">
 
 ### 🤖  **AI**
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/330px-OpenAI_Logo.svg.png" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/330px-Google_Gemini_logo.svg.png" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/330px-Claude_AI_logo.svg.png" />
+
+<div style="background-color: white; display: inline-block;" width="50%" height="50%">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/330px-OpenAI_Logo.svg.png" alt="OpenAI Logo">
+</div>
+
+<div style="background-color: white; display: inline-block;" width="50%" height="50%">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/330px-Google_Gemini_logo.svg.png" />
+</div>
+
+<div style="background-color: white; display: inline-block;" width="50%" height="50%">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/330px-Claude_AI_logo.svg.png" />
+</div>
 
 ### 🤖  **AI & Machine Learning**
 <img src="https://skillicons.dev/icons?i=python,typescript" />

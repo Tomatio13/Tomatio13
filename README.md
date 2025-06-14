@@ -17,8 +17,7 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="./images/ai_logo.png" width="20%" heigth="20%" />
-<br><strong>AI & Python</strong>
+<img src="./images/ai_logo.png" width="80%" heigth="80%" />
 </td>
 <td width="400" align="left">
 

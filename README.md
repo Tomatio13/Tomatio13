@@ -26,7 +26,7 @@
 🌍 **Location:** Japan 🇯🇵  
 🤖 **Software Engineer** | Not using AI is now a matter of survival   
 🔧 **Languages** Python | n8n | Next.js | Business Process Optimization  
-📈 **Abaout** An engineer who has experienced the changes in the AI boom firsthand  
+📈 **"AI makes everything possible! 🤖"**
 
 </td>
 </tr>

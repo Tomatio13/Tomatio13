@@ -25,8 +25,8 @@
 ### 👋 **Hi, I'm Tomatio13!**
 🌍 **Location:** Japan 🇯🇵  
 🤖 **Software Engineer** | Not using AI is now a matter of survival 
-🔧 Python | n8n | Next.js | Business Process Optimization
-📈 An engineer who has experienced the changes in the AI boom firsthand
+🔧 **Languages** Python | n8n | Next.js | Business Process Optimization
+📈 **Abaout** An engineer who has experienced the changes in the AI boom firsthand
 
 </td>
 </tr>
@@ -50,26 +50,30 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🤖  **AI & Machine Learning**
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+### 🤖  **AI**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/330px-OpenAI_Logo.svg.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/330px-Google_Gemini_logo.svg.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/330px-Claude_AI_logo.svg.png" />
 
-### 🌐  **Frontend Development**
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript" />
+### 🤖  **AI & Machine Learning**
+<img src="https://skillicons.dev/icons?i=python,typescript" />
 
 ### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vim" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
+### 🌐  **Frontend Development**
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript" />
+
+
 ### 🗄️  **Database**
 <img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
 
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
-
 ### 💻  **Backend & Languages**
 <img src="https://skillicons.dev/icons?i=python,nodejs,js,ts,html,css" />
+
 
 </td>
 </tr>

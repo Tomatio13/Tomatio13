@@ -11,9 +11,9 @@
 
 ### 👋 **Hi, I'm Tomatio13!**
 🌍 **Location:** Japan 🇯🇵  
-🤖 **Software Engineer** 
-🔧 **Love** Claude Code | Codex cli | Mastra
-📈 **"AI makes everything possible! 🤖"**
+🤖 **Software Engineer**   
+🔧 **Loves** Claude Code | Codex cli | Mastra  
+📈 **"AI makes everything possible! 🤖"**  
 
 </td>
 </tr>

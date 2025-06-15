@@ -11,8 +11,8 @@
 
 ### 👋 **Hi, I'm Tomatio13!**
 🌍 **Location:** Japan 🇯🇵  
-🤖 **Software Engineer** | Not using AI is now a matter of survival   
-🔧 **Languages** Python | n8n | Next.js | Business Process Optimization  
+🤖 **Software Engineer** 
+🔧 **Love** Claude Code | Codex cli | Mastra
 📈 **"AI makes everything possible! 🤖"**
 
 </td>
@@ -88,6 +88,7 @@
 </div>
 
 <div align="center">
+
   ** [Tomatio13](https://github.com/Tomatio13) ⭐Force be with you.**
   
   *"AI makes everything possible! 🤖"*
